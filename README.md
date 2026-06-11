@@ -19,4 +19,5 @@
 4. Стандартные механизмы платформы
 
 <img width="2150" height="1027" alt="Снимок экрана 2026-06-11 220645" src="https://github.com/user-attachments/assets/69072a91-2a56-42fa-9617-b4e5696e90d7" />
-<img width="291" height="268" alt="Снимок экрана 2026-06-11 220319" src="https://github.com/user-attachments/assets/1556cd40-8018-4fc0-b7cb-87096f81b2ab" />
+<img width="2148" height="1034" alt="Снимок экрана 2026-06-11 220817" src="https://github.com/user-attachments/assets/ccf890d0-866f-418e-8184-0e7aea18c946" />
+
