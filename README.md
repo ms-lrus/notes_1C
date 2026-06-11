@@ -18,6 +18,5 @@
 3. Корректная работа поиска
 4. Стандартные механизмы платформы
 
-<img width="2148" height="1034" alt="Снимок экрана 2026-06-11 220817" src="https://github.com/user-attachments/assets/3c31a88c-605a-4157-80c9-4b4f1c765a0e" />
 <img width="2150" height="1027" alt="Снимок экрана 2026-06-11 220645" src="https://github.com/user-attachments/assets/69072a91-2a56-42fa-9617-b4e5696e90d7" />
 <img width="291" height="268" alt="Снимок экрана 2026-06-11 220319" src="https://github.com/user-attachments/assets/1556cd40-8018-4fc0-b7cb-87096f81b2ab" />
